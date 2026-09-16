@@ -1,0 +1,353 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+1000131,cust_34000,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I can't log into my account, keeps saying 'incorrect password' even after reset.",1000132,
+1000205,cust_17261,True,Mon Jan 01 00:00:00 +0000 2024,"Received 876878-5288153 today and it's clearly defective, won't power on at all.",1000206,
+1000150,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,That sounds frustrating. Can you DM us the email on file (no passwords please) so we can look into the reset delivery issue?,,1000149
+1000089,cust_94268,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp requesting a refund for 823588-1453697, item never arrived and it's been 3 weeks.",1000090,
+1000059,cust_29094,True,Mon Jan 01 00:00:00 +0000 2024,Order 291200-5408156 says delivered but there's nothing on my porch. Ring camera shows no one came.,1000060,
+1000133,cust_28554,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I can't log into my account, keeps saying 'incorrect password' even after reset.",1000134,
+1000079,cust_25119,True,Mon Jan 01 00:00:00 +0000 2024,Where's my refund for order 731535-7109648? Your app says 'processed' but nothing in my bank account.,1000080,
+1000074,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Apologies for the delay -- I can confirm the return for 100244-3537804 was received and I've pushed the refund manually. It should reflect in 3-5 business days.,,1000073
+1000279,cust_87224,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp worst customer service ever, nobody has responded about 490303-2090139 in 5 days. Lawyer is next.",1000280,
+1000164,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry about that! I can see the duplicate charge on 433998-2546759 -- I've submitted a refund for the extra charge, it'll drop off in 3-5 business days.",,1000163
+1000015,cust_23507,True,Mon Jan 01 00:00:00 +0000 2024,Can someone tell me the status of 666950-2976225? Nothing on the tracking page.,1000016,
+1000271,cust_59296,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp worst customer service ever, nobody has responded about 416618-3360675 in 5 days. Lawyer is next.",1000272,
+1000189,cust_68417,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I was charged twice for order 427147-6117141, please fix this.",1000190,
+1000315,cust_45523,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp does the warranty on 477639-3111811 cover water damage?,1000316,
+1000147,cust_64609,True,Mon Jan 01 00:00:00 +0000 2024,"Locked out of my account for two days now, reset emails aren't arriving. Please help.",1000148,
+1000179,cust_20976,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I was charged twice for order 381986-1282389, please fix this.",1000180,
+1000197,cust_76412,True,Mon Jan 01 00:00:00 +0000 2024,"Received 211444-8250736 today and it's clearly defective, won't power on at all.",1000198,
+1000125,cust_43995,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp how do I return item 407197-9408101, wrong size arrived.",1000126,
+1000338,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,So happy to hear that about 334443-1019327! We'll pass this along to the team.,,1000337
+1000088,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I've checked and your refund for 124217-4442936 was issued but may be sitting with your bank. If it's not there in 5 business days, DM us your order details and we'll escalate.",,1000087
+1000263,cust_27380,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp worst customer service ever, nobody has responded about 883796-9792363 in 5 days. Lawyer is next.",1000264,
+1000123,cust_37889,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp how do I return item 966286-4540702, wrong size arrived.",1000124,
+1000277,cust_43189,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp I want a manager. 847659-1196656 has been a disaster and every rep says something different.,1000278,
+1000270,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 266792-1060238. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000269
+1000284,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 394269-2706408. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000283
+1000312,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Yes, most items ship internationally with some exceptions -- happy to check 533988-9794082 specifically if you share the product link.",,1000311
+1000333,cust_23034,True,Mon Jan 01 00:00:00 +0000 2024,"Shoutout to @AmazonHelp support for sorting out 364025-9862617 in like 10 minutes, appreciate it!",1000334,
+1000342,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,So happy to hear that about 346172-5144951! We'll pass this along to the team.,,1000341
+1000220,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"So sorry to hear that! I've set up a free replacement for 787884-4371885, no need to wait for the return -- it ships today.",,1000219
+1000261,cust_28578,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp this is the THIRD time I've been ignored about order 320030-4535107. Absolutely done, filing a BBB complaint.",1000262,
+1000151,cust_37877,True,Mon Jan 01 00:00:00 +0000 2024,"Locked out of my account for two days now, reset emails aren't arriving. Please help.",1000152,
+1000038,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I'm so sorry about that! I've started a replacement for order 935601-8653855 at no cost, it'll ship today. Please send a photo via DM so we can also file it with the carrier.",,1000037
+1000043,cust_32026,True,Mon Jan 01 00:00:00 +0000 2024,Order 463861-1378543 says delivered but there's nothing on my porch. Ring camera shows no one came.,1000044,
+1000104,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"No problem! Go to Your Orders > 184450-4698744 > Return or Replace Items, pick 'Wrong item' and you'll get a free prepaid label.",,1000103
+1000112,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"No problem! Go to Your Orders > 287193-8280054 > Return or Replace Items, pick 'Wrong item' and you'll get a free prepaid label.",,1000111
+1000250,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Got it! I've submitted a cancellation for 879319-6107272 -- if it hasn't entered the shipping process it'll be stopped automatically and refunded in full.,,1000249
+1000155,cust_27990,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I can't log into my account, keeps saying 'incorrect password' even after reset.",1000156,
+1000090,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I've checked and your refund for 823588-1453697 was issued but may be sitting with your bank. If it's not there in 5 business days, DM us your order details and we'll escalate.",,1000089
+1000036,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's not okay, thank you for letting us know. I've opened an investigation for 829070-6875018 with the carrier and issued a reshipment.",,1000035
+1000004,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Thanks for flagging this. Order 961168-9990608 is currently with the carrier -- tracking updates can lag up to 24h. We'll monitor it for you.,,1000003
+1000219,cust_21908,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp item 787884-4371885 arrived broken, doesn't even turn on.",1000220,
+1000345,cust_39863,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp just wanted to say your team fixed my 807225-8046697 issue super fast, thank you!",1000346,
+1000331,cust_92113,True,Mon Jan 01 00:00:00 +0000 2024,"Shoutout to @AmazonHelp support for sorting out 697040-1630684 in like 10 minutes, appreciate it!",1000332,
+1000030,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Thanks for flagging this. Order 401924-2228106 is currently with the carrier -- tracking updates can lag up to 24h. We'll monitor it for you.,,1000029
+1000134,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry for the trouble! Please check your spam folder for the reset email, and make sure you're using the email tied to the account. DM us if it still fails and we'll escalate to account security.",,1000133
+1000314,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Yes, most items ship internationally with some exceptions -- happy to check 454631-2041185 specifically if you share the product link.",,1000313
+1000055,cust_40403,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp my package 258252-2392252 arrived completely smashed, box was soaking wet too.",1000056,
+1000351,cust_76175,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp just wanted to say your team fixed my 515611-4323224 issue super fast, thank you!",1000352,
+1000008,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Hi, sorry for the wait! I can see order 554710-8015764 is out for delivery and should arrive by end of day. DM us if it doesn't show up.",,1000007
+1000158,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,That sounds frustrating. Can you DM us the email on file (no passwords please) so we can look into the reset delivery issue?,,1000157
+1000343,cust_75314,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp just wanted to say your team fixed my 422329-1927926 issue super fast, thank you!",1000344,
+1000126,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Sorry about that mix-up. You can start a free return for 407197-9408101 from Your Orders -- happy to send you the direct link if it's not showing.,,1000125
+1000289,cust_16484,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp does the warranty on 951404-7711585 cover water damage?,1000290,
+1000117,cust_81913,True,Mon Jan 01 00:00:00 +0000 2024,"Need to send back 253274-8958388, it's not what I ordered. What's the process?",1000118,
+1000057,cust_87217,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp my package 790504-4914729 arrived completely smashed, box was soaking wet too.",1000058,
+1000228,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Cancelled! Order 850773-7535001 hadn't shipped yet so it's been stopped and you won't be charged.,,1000227
+1000145,cust_78578,True,Mon Jan 01 00:00:00 +0000 2024,"Locked out of my account for two days now, reset emails aren't arriving. Please help.",1000146,
+1000116,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Sorry about that mix-up. You can start a free return for 233209-1462193 from Your Orders -- happy to send you the direct link if it's not showing.,,1000115
+1000097,cust_13798,True,Mon Jan 01 00:00:00 +0000 2024,"Need to send back 309629-9684536, it's not what I ordered. What's the process?",1000098,
+1000334,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That means a lot, thank you for the kind words! Glad we could sort out 364025-9862617 quickly.",,1000333
+1000052,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's not okay, thank you for letting us know. I've opened an investigation for 521154-5661367 with the carrier and issued a reshipment.",,1000051
+1000148,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry for the trouble! Please check your spam folder for the reset email, and make sure you're using the email tied to the account. DM us if it still fails and we'll escalate to account security.",,1000147
+1000302,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Yes, most items ship internationally with some exceptions -- happy to check 269509-2261153 specifically if you share the product link.",,1000301
+1000304,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Yes, most items ship internationally with some exceptions -- happy to check 330713-8599845 specifically if you share the product link.",,1000303
+1000319,cust_65731,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp does the warranty on 427172-1365919 cover water damage?,1000320,
+1000070,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I've checked and your refund for 299868-2129905 was issued but may be sitting with your bank. If it's not there in 5 business days, DM us your order details and we'll escalate.",,1000069
+1000046,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I'm so sorry about that! I've started a replacement for order 740595-2964541 at no cost, it'll ship today. Please send a photo via DM so we can also file it with the carrier.",,1000045
+1000092,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I've checked and your refund for 195431-5380786 was issued but may be sitting with your bank. If it's not there in 5 business days, DM us your order details and we'll escalate.",,1000091
+1000245,cust_20154,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp need to cancel order 602278-5820415 ASAP, hasn't shipped yet right?",1000246,
+1000188,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry about that! I can see the duplicate charge on 269291-5393873 -- I've submitted a refund for the extra charge, it'll drop off in 3-5 business days.",,1000187
+1000344,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That means a lot, thank you for the kind words! Glad we could sort out 422329-1927926 quickly.",,1000343
+1000037,cust_45381,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp my package 935601-8653855 arrived completely smashed, box was soaking wet too.",1000038,
+1000083,cust_54909,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp I returned item 427000-2440905 two weeks ago and still no refund. This is ridiculous.,1000084,
+1000297,cust_49431,True,Mon Jan 01 00:00:00 +0000 2024,Quick question -- do you ship 368165-5364912-type items internationally?,1000298,
+1000081,cust_73417,True,Mon Jan 01 00:00:00 +0000 2024,Where's my refund for order 990174-9188423? Your app says 'processed' but nothing in my bank account.,1000082,
+1000210,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"So sorry to hear that! I've set up a free replacement for 147434-8708341, no need to wait for the return -- it ships today.",,1000209
+1000012,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Hi, sorry for the wait! I can see order 761259-2037872 is out for delivery and should arrive by end of day. DM us if it doesn't show up.",,1000011
+1000244,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Cancelled! Order 341944-8723224 hadn't shipped yet so it's been stopped and you won't be charged.,,1000243
+1000129,cust_79707,True,Mon Jan 01 00:00:00 +0000 2024,"Locked out of my account for two days now, reset emails aren't arriving. Please help.",1000130,
+1000299,cust_94306,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp does the warranty on 606653-7616393 cover water damage?,1000300,
+1000335,cust_44194,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp just wanted to say your team fixed my 173769-6039024 issue super fast, thank you!",1000336,
+1000232,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Got it! I've submitted a cancellation for 246074-9787189 -- if it hasn't entered the shipping process it'll be stopped automatically and refunded in full.,,1000231
+1000339,cust_78980,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp just wanted to say your team fixed my 392137-6307590 issue super fast, thank you!",1000340,
+1000200,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's disappointing, apologies. I've issued a replacement for 422733-4610140 and a prepaid label to send the defective one back whenever convenient.",,1000199
+1000062,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's not okay, thank you for letting us know. I've opened an investigation for 539297-9968948 with the carrier and issued a reshipment.",,1000061
+1000071,cust_23419,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp requesting a refund for 215268-6705153, item never arrived and it's been 3 weeks.",1000072,
+1000318,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Yes, most items ship internationally with some exceptions -- happy to check 360522-7451858 specifically if you share the product link.",,1000317
+1000349,cust_99465,True,Mon Jan 01 00:00:00 +0000 2024,"Shoutout to @AmazonHelp support for sorting out 135753-6671564 in like 10 minutes, appreciate it!",1000350,
+1000237,cust_10434,True,Mon Jan 01 00:00:00 +0000 2024,"Please cancel 657259-5103030, ordered by mistake.",1000238,
+1000143,cust_69289,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I can't log into my account, keeps saying 'incorrect password' even after reset.",1000144,
+1000157,cust_73866,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I can't log into my account, keeps saying 'incorrect password' even after reset.",1000158,
+1000162,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry about that! I can see the duplicate charge on 523425-6689424 -- I've submitted a refund for the extra charge, it'll drop off in 3-5 business days.",,1000161
+1000024,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Thanks for flagging this. Order 714006-8603172 is currently with the carrier -- tracking updates can lag up to 24h. We'll monitor it for you.,,1000023
+1000109,cust_72656,True,Mon Jan 01 00:00:00 +0000 2024,"Need to send back 188896-3011649, it's not what I ordered. What's the process?",1000110,
+1000303,cust_66023,True,Mon Jan 01 00:00:00 +0000 2024,Quick question -- do you ship 330713-8599845-type items internationally?,1000304,
+1000053,cust_40245,True,Mon Jan 01 00:00:00 +0000 2024,Order 391945-7967519 says delivered but there's nothing on my porch. Ring camera shows no one came.,1000054,
+1000292,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Great question! Standard warranty on 867927-7893523 covers manufacturing defects, not water damage, but check if you added Extended Protection at checkout.",,1000291
+1000141,cust_18305,True,Mon Jan 01 00:00:00 +0000 2024,"Locked out of my account for two days now, reset emails aren't arriving. Please help.",1000142,
+1000236,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Got it! I've submitted a cancellation for 494912-8573003 -- if it hasn't entered the shipping process it'll be stopped automatically and refunded in full.,,1000235
+1000223,cust_49877,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp item 143690-7609864 arrived broken, doesn't even turn on.",1000224,
+1000094,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I've checked and your refund for 472974-4737842 was issued but may be sitting with your bank. If it's not there in 5 business days, DM us your order details and we'll escalate.",,1000093
+1000264,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 883796-9792363. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000263
+1000253,cust_70904,True,Mon Jan 01 00:00:00 +0000 2024,"Please cancel 808530-9214365, ordered by mistake.",1000254,
+1000265,cust_57865,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp worst customer service ever, nobody has responded about 732674-9535313 in 5 days. Lawyer is next.",1000266,
+1000221,cust_86913,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp item 377000-2505812 arrived broken, doesn't even turn on.",1000222,
+1000006,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Hi, sorry for the wait! I can see order 160816-9513358 is out for delivery and should arrive by end of day. DM us if it doesn't show up.",,1000005
+1000326,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That means a lot, thank you for the kind words! Glad we could sort out 921147-2829488 quickly.",,1000325
+1000044,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's not okay, thank you for letting us know. I've opened an investigation for 463861-1378543 with the carrier and issued a reshipment.",,1000043
+1000225,cust_96185,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp need to cancel order 760256-4905896 ASAP, hasn't shipped yet right?",1000226,
+1000005,cust_21265,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp any update on order 160816-9513358? Tracking hasn't moved in 3 days.,1000006,
+1000247,cust_95397,True,Mon Jan 01 00:00:00 +0000 2024,"Please cancel 728836-3473382, ordered by mistake.",1000248,
+1000310,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Yes, most items ship internationally with some exceptions -- happy to check 370907-4391377 specifically if you share the product link.",,1000309
+1000080,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Apologies for the delay -- I can confirm the return for 731535-7109648 was received and I've pushed the refund manually. It should reflect in 3-5 business days.,,1000079
+1000091,cust_31894,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp requesting a refund for 195431-5380786, item never arrived and it's been 3 weeks.",1000092,
+1000077,cust_55533,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp requesting a refund for 494505-3492263, item never arrived and it's been 3 weeks.",1000078,
+1000296,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Yes, most items ship internationally with some exceptions -- happy to check 595120-7960307 specifically if you share the product link.",,1000295
+1000014,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Thanks for flagging this. Order 148845-3234302 is currently with the carrier -- tracking updates can lag up to 24h. We'll monitor it for you.,,1000013
+1000255,cust_50851,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp need to cancel order 588529-8823872 ASAP, hasn't shipped yet right?",1000256,
+1000086,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Apologies for the delay -- I can confirm the return for 876314-5441883 was received and I've pushed the refund manually. It should reflect in 3-5 business days.,,1000085
+1000121,cust_35533,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp how do I return item 207764-9834563, wrong size arrived.",1000122,
+1000266,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 732674-9535313. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000265
+1000230,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Cancelled! Order 397980-3428539 hadn't shipped yet so it's been stopped and you won't be charged.,,1000229
+1000224,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's disappointing, apologies. I've issued a replacement for 143690-7609864 and a prepaid label to send the defective one back whenever convenient.",,1000223
+1000317,cust_66601,True,Mon Jan 01 00:00:00 +0000 2024,Quick question -- do you ship 360522-7451858-type items internationally?,1000318,
+1000260,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 180178-9499648. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000259
+1000233,cust_23751,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp need to cancel order 132674-1702329 ASAP, hasn't shipped yet right?",1000234,
+1000165,cust_60376,True,Mon Jan 01 00:00:00 +0000 2024,Why does my card show a charge for 680963-8695218 that's way more than what I was quoted at checkout?,1000166,
+1000137,cust_83439,True,Mon Jan 01 00:00:00 +0000 2024,"Locked out of my account for two days now, reset emails aren't arriving. Please help.",1000138,
+1000020,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Hi, sorry for the wait! I can see order 846702-2053424 is out for delivery and should arrive by end of day. DM us if it doesn't show up.",,1000019
+1000050,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I'm so sorry about that! I've started a replacement for order 509940-9330000 at no cost, it'll ship today. Please send a photo via DM so we can also file it with the carrier.",,1000049
+1000154,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry for the trouble! Please check your spam folder for the reset email, and make sure you're using the email tied to the account. DM us if it still fails and we'll escalate to account security.",,1000153
+1000327,cust_82286,True,Mon Jan 01 00:00:00 +0000 2024,"Shoutout to @AmazonHelp support for sorting out 647740-2826877 in like 10 minutes, appreciate it!",1000328,
+1000322,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That means a lot, thank you for the kind words! Glad we could sort out 843977-8940124 quickly.",,1000321
+1000139,cust_15531,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I can't log into my account, keeps saying 'incorrect password' even after reset.",1000140,
+1000332,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That means a lot, thank you for the kind words! Glad we could sort out 697040-1630684 quickly.",,1000331
+1000011,cust_38977,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp my order 761259-2037872 still says 'preparing for shipment' after a week.,1000012,
+1000280,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 490303-2090139. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000279
+1000291,cust_94474,True,Mon Jan 01 00:00:00 +0000 2024,Quick question -- do you ship 867927-7893523-type items internationally?,1000292,
+1000168,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry about that! I can see the duplicate charge on 447600-9681099 -- I've submitted a refund for the extra charge, it'll drop off in 3-5 business days.",,1000167
+1000241,cust_36898,True,Mon Jan 01 00:00:00 +0000 2024,"Please cancel 364444-2249063, ordered by mistake.",1000242,
+1000301,cust_82140,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp does the warranty on 269509-2261153 cover water damage?,1000302,
+1000226,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Got it! I've submitted a cancellation for 760256-4905896 -- if it hasn't entered the shipping process it'll be stopped automatically and refunded in full.,,1000225
+1000010,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Hi, sorry for the wait! I can see order 677814-8122250 is out for delivery and should arrive by end of day. DM us if it doesn't show up.",,1000009
+1000346,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,So happy to hear that about 807225-8046697! We'll pass this along to the team.,,1000345
+1000287,cust_13802,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp worst customer service ever, nobody has responded about 430932-4185138 in 5 days. Lawyer is next.",1000288,
+1000181,cust_25948,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I was charged twice for order 737720-4731386, please fix this.",1000182,
+1000259,cust_60704,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp worst customer service ever, nobody has responded about 180178-9499648 in 5 days. Lawyer is next.",1000260,
+1000130,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry for the trouble! Please check your spam folder for the reset email, and make sure you're using the email tied to the account. DM us if it still fails and we'll escalate to account security.",,1000129
+1000177,cust_19491,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I was charged twice for order 392618-1965134, please fix this.",1000178,
+1000251,cust_38533,True,Mon Jan 01 00:00:00 +0000 2024,"Please cancel 163607-9150338, ordered by mistake.",1000252,
+1000102,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Sorry about that mix-up. You can start a free return for 826161-6776075 from Your Orders -- happy to send you the direct link if it's not showing.,,1000101
+1000340,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,So happy to hear that about 392137-6307590! We'll pass this along to the team.,,1000339
+1000196,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"So sorry to hear that! I've set up a free replacement for 677816-4178552, no need to wait for the return -- it ships today.",,1000195
+1000049,cust_68875,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp my package 509940-9330000 arrived completely smashed, box was soaking wet too.",1000050,
+1000149,cust_19508,True,Mon Jan 01 00:00:00 +0000 2024,"Locked out of my account for two days now, reset emails aren't arriving. Please help.",1000150,
+1000325,cust_29931,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp just wanted to say your team fixed my 921147-2829488 issue super fast, thank you!",1000326,
+1000040,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's not okay, thank you for letting us know. I've opened an investigation for 597128-2090518 with the carrier and issued a reshipment.",,1000039
+1000175,cust_21725,True,Mon Jan 01 00:00:00 +0000 2024,Why does my card show a charge for 662664-9636619 that's way more than what I was quoted at checkout?,1000176,
+1000063,cust_69853,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp courier left my 824035-9648511 package in the rain, everything inside is ruined.",1000064,
+1000048,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I'm so sorry about that! I've started a replacement for order 905550-5822307 at no cost, it'll ship today. Please send a photo via DM so we can also file it with the carrier.",,1000047
+1000204,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"So sorry to hear that! I've set up a free replacement for 977645-3177994, no need to wait for the return -- it ships today.",,1000203
+1000113,cust_32282,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp how do I return item 585659-7734153, wrong size arrived.",1000114,
+1000274,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 431431-3028522. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000273
+1000067,cust_18158,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp requesting a refund for 208566-9078612, item never arrived and it's been 3 weeks.",1000068,
+1000066,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I've checked and your refund for 917857-7583025 was issued but may be sitting with your bank. If it's not there in 5 business days, DM us your order details and we'll escalate.",,1000065
+1000337,cust_70383,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp just wanted to say your team fixed my 334443-1019327 issue super fast, thank you!",1000338,
+1000069,cust_31273,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp I returned item 299868-2129905 two weeks ago and still no refund. This is ridiculous.,1000070,
+1000146,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry for the trouble! Please check your spam folder for the reset email, and make sure you're using the email tied to the account. DM us if it still fails and we'll escalate to account security.",,1000145
+1000072,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Apologies for the delay -- I can confirm the return for 215268-6705153 was received and I've pushed the refund manually. It should reflect in 3-5 business days.,,1000071
+1000176,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Thanks for the heads up, that shouldn't happen. I've flagged 662664-9636619 to billing and a corrected charge/refund is being processed now.",,1000175
+1000076,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Apologies for the delay -- I can confirm the return for 743550-1427833 was received and I've pushed the refund manually. It should reflect in 3-5 business days.,,1000075
+1000268,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 342623-9353173. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000267
+1000171,cust_26981,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I was charged twice for order 385129-1664179, please fix this.",1000172,
+1000138,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry for the trouble! Please check your spam folder for the reset email, and make sure you're using the email tied to the account. DM us if it still fails and we'll escalate to account security.",,1000137
+1000218,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's disappointing, apologies. I've issued a replacement for 500164-2407450 and a prepaid label to send the defective one back whenever convenient.",,1000217
+1000173,cust_29577,True,Mon Jan 01 00:00:00 +0000 2024,Why does my card show a charge for 959598-8084249 that's way more than what I was quoted at checkout?,1000174,
+1000290,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Great question! Standard warranty on 951404-7711585 covers manufacturing defects, not water damage, but check if you added Extended Protection at checkout.",,1000289
+1000215,cust_53952,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp item 328448-6982485 arrived broken, doesn't even turn on.",1000216,
+1000293,cust_32382,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp does the warranty on 400111-9146598 cover water damage?,1000294,
+1000352,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,So happy to hear that about 515611-4323224! We'll pass this along to the team.,,1000351
+1000248,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Cancelled! Order 728836-3473382 hadn't shipped yet so it's been stopped and you won't be charged.,,1000247
+1000294,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Great question! Standard warranty on 400111-9146598 covers manufacturing defects, not water damage, but check if you added Extended Protection at checkout.",,1000293
+1000336,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,So happy to hear that about 173769-6039024! We'll pass this along to the team.,,1000335
+1000182,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Thanks for the heads up, that shouldn't happen. I've flagged 737720-4731386 to billing and a corrected charge/refund is being processed now.",,1000181
+1000282,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 180111-7051698. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000281
+1000108,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Sorry about that mix-up. You can start a free return for 739906-1032016 from Your Orders -- happy to send you the direct link if it's not showing.,,1000107
+1000025,cust_85290,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp any update on order 932967-4015985? Tracking hasn't moved in 3 days.,1000026,
+1000054,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's not okay, thank you for letting us know. I've opened an investigation for 391945-7967519 with the carrier and issued a reshipment.",,1000053
+1000022,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Thanks for flagging this. Order 813451-9920785 is currently with the carrier -- tracking updates can lag up to 24h. We'll monitor it for you.,,1000021
+1000308,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Great question! Standard warranty on 458566-2528309 covers manufacturing defects, not water damage, but check if you added Extended Protection at checkout.",,1000307
+1000068,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I've checked and your refund for 208566-9078612 was issued but may be sitting with your bank. If it's not there in 5 business days, DM us your order details and we'll escalate.",,1000067
+1000019,cust_75066,True,Mon Jan 01 00:00:00 +0000 2024,"Hi AmazonHelp, where is my order #846702-2053424? It was supposed to arrive yesterday.",1000020,
+1000323,cust_42566,True,Mon Jan 01 00:00:00 +0000 2024,"Shoutout to @AmazonHelp support for sorting out 510539-9856044 in like 10 minutes, appreciate it!",1000324,
+1000328,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That means a lot, thank you for the kind words! Glad we could sort out 647740-2826877 quickly.",,1000327
+1000298,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Great question! Standard warranty on 368165-5364912 covers manufacturing defects, not water damage, but check if you added Extended Protection at checkout.",,1000297
+1000217,cust_75898,True,Mon Jan 01 00:00:00 +0000 2024,"Received 500164-2407450 today and it's clearly defective, won't power on at all.",1000218,
+1000262,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 320030-4535107. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000261
+1000257,cust_70158,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp this is the THIRD time I've been ignored about order 190024-8934703. Absolutely done, filing a BBB complaint.",1000258,
+1000124,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Sorry about that mix-up. You can start a free return for 966286-4540702 from Your Orders -- happy to send you the direct link if it's not showing.,,1000123
+1000009,cust_39260,True,Mon Jan 01 00:00:00 +0000 2024,"Hi AmazonHelp, where is my order #677814-8122250? It was supposed to arrive yesterday.",1000010,
+1000167,cust_24791,True,Mon Jan 01 00:00:00 +0000 2024,Why does my card show a charge for 447600-9681099 that's way more than what I was quoted at checkout?,1000168,
+1000246,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Got it! I've submitted a cancellation for 602278-5820415 -- if it hasn't entered the shipping process it'll be stopped automatically and refunded in full.,,1000245
+1000105,cust_91797,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp how do I return item 306261-6666294, wrong size arrived.",1000106,
+1000295,cust_49029,True,Mon Jan 01 00:00:00 +0000 2024,Quick question -- do you ship 595120-7960307-type items internationally?,1000296,
+1000300,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Great question! Standard warranty on 606653-7616393 covers manufacturing defects, not water damage, but check if you added Extended Protection at checkout.",,1000299
+1000272,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 416618-3360675. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000271
+1000285,cust_76972,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp worst customer service ever, nobody has responded about 256148-5182974 in 5 days. Lawyer is next.",1000286,
+1000051,cust_82118,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp my package 521154-5661367 arrived completely smashed, box was soaking wet too.",1000052,
+1000267,cust_13255,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp worst customer service ever, nobody has responded about 342623-9353173 in 5 days. Lawyer is next.",1000268,
+1000273,cust_52539,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp worst customer service ever, nobody has responded about 431431-3028522 in 5 days. Lawyer is next.",1000274,
+1000252,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Got it! I've submitted a cancellation for 163607-9150338 -- if it hasn't entered the shipping process it'll be stopped automatically and refunded in full.,,1000251
+1000324,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,So happy to hear that about 510539-9856044! We'll pass this along to the team.,,1000323
+1000201,cust_17128,True,Mon Jan 01 00:00:00 +0000 2024,"Received 972715-3344092 today and it's clearly defective, won't power on at all.",1000202,
+1000093,cust_93419,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp requesting a refund for 472974-4737842, item never arrived and it's been 3 weeks.",1000094,
+1000118,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"No problem! Go to Your Orders > 253274-8958388 > Return or Replace Items, pick 'Wrong item' and you'll get a free prepaid label.",,1000117
+1000082,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I've checked and your refund for 990174-9188423 was issued but may be sitting with your bank. If it's not there in 5 business days, DM us your order details and we'll escalate.",,1000081
+1000084,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Apologies for the delay -- I can confirm the return for 427000-2440905 was received and I've pushed the refund manually. It should reflect in 3-5 business days.,,1000083
+1000061,cust_26448,True,Mon Jan 01 00:00:00 +0000 2024,Order 539297-9968948 says delivered but there's nothing on my porch. Ring camera shows no one came.,1000062,
+1000156,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,That sounds frustrating. Can you DM us the email on file (no passwords please) so we can look into the reset delivery issue?,,1000155
+1000039,cust_94820,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp my package 597128-2090518 arrived completely smashed, box was soaking wet too.",1000040,
+1000198,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's disappointing, apologies. I've issued a replacement for 211444-8250736 and a prepaid label to send the defective one back whenever convenient.",,1000197
+1000178,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Thanks for the heads up, that shouldn't happen. I've flagged 392618-1965134 to billing and a corrected charge/refund is being processed now.",,1000177
+1000276,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 887201-6675272. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000275
+1000078,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I've checked and your refund for 494505-3492263 was issued but may be sitting with your bank. If it's not there in 5 business days, DM us your order details and we'll escalate.",,1000077
+1000190,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Thanks for the heads up, that shouldn't happen. I've flagged 427147-6117141 to billing and a corrected charge/refund is being processed now.",,1000189
+1000206,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"So sorry to hear that! I've set up a free replacement for 876878-5288153, no need to wait for the return -- it ships today.",,1000205
+1000003,cust_86387,True,Mon Jan 01 00:00:00 +0000 2024,"Hi AmazonHelp, where is my order #961168-9990608? It was supposed to arrive yesterday.",1000004,
+1000047,cust_62153,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp my package 905550-5822307 arrived completely smashed, box was soaking wet too.",1000048,
+1000128,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"No problem! Go to Your Orders > 670795-8029864 > Return or Replace Items, pick 'Wrong item' and you'll get a free prepaid label.",,1000127
+1000034,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's not okay, thank you for letting us know. I've opened an investigation for 141111-2302255 with the carrier and issued a reshipment.",,1000033
+1000275,cust_35656,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp worst customer service ever, nobody has responded about 887201-6675272 in 5 days. Lawyer is next.",1000276,
+1000209,cust_45263,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp item 147434-8708341 arrived broken, doesn't even turn on.",1000210,
+1000111,cust_61883,True,Mon Jan 01 00:00:00 +0000 2024,"Need to send back 287193-8280054, it's not what I ordered. What's the process?",1000112,
+1000234,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Cancelled! Order 132674-1702329 hadn't shipped yet so it's been stopped and you won't be charged.,,1000233
+1000065,cust_61658,True,Mon Jan 01 00:00:00 +0000 2024,Where's my refund for order 917857-7583025? Your app says 'processed' but nothing in my bank account.,1000066,
+1000203,cust_91978,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp item 977645-3177994 arrived broken, doesn't even turn on.",1000204,
+1000281,cust_16326,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp worst customer service ever, nobody has responded about 180111-7051698 in 5 days. Lawyer is next.",1000282,
+1000199,cust_36034,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp item 422733-4610140 arrived broken, doesn't even turn on.",1000200,
+1000120,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"No problem! Go to Your Orders > 674919-3197544 > Return or Replace Items, pick 'Wrong item' and you'll get a free prepaid label.",,1000119
+1000184,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Thanks for the heads up, that shouldn't happen. I've flagged 575816-1193715 to billing and a corrected charge/refund is being processed now.",,1000183
+1000122,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Sorry about that mix-up. You can start a free return for 207764-9834563 from Your Orders -- happy to send you the direct link if it's not showing.,,1000121
+1000329,cust_40484,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp just wanted to say your team fixed my 914598-1663476 issue super fast, thank you!",1000330,
+1000060,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I'm so sorry about that! I've started a replacement for order 291200-5408156 at no cost, it'll ship today. Please send a photo via DM so we can also file it with the carrier.",,1000059
+1000212,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's disappointing, apologies. I've issued a replacement for 567480-1060779 and a prepaid label to send the defective one back whenever convenient.",,1000211
+1000007,cust_21889,True,Mon Jan 01 00:00:00 +0000 2024,"Hi AmazonHelp, where is my order #554710-8015764? It was supposed to arrive yesterday.",1000008,
+1000309,cust_60179,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp does the warranty on 370907-4391377 cover water damage?,1000310,
+1000242,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Got it! I've submitted a cancellation for 364444-2249063 -- if it hasn't entered the shipping process it'll be stopped automatically and refunded in full.,,1000241
+1000283,cust_93225,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp this is the THIRD time I've been ignored about order 394269-2706408. Absolutely done, filing a BBB complaint.",1000284,
+1000258,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 190024-8934703. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000257
+1000207,cust_48411,True,Mon Jan 01 00:00:00 +0000 2024,"Received 188588-7390135 today and it's clearly defective, won't power on at all.",1000208,
+1000235,cust_92080,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp need to cancel order 494912-8573003 ASAP, hasn't shipped yet right?",1000236,
+1000256,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Got it! I've submitted a cancellation for 588529-8823872 -- if it hasn't entered the shipping process it'll be stopped automatically and refunded in full.,,1000255
+1000307,cust_58274,True,Mon Jan 01 00:00:00 +0000 2024,Quick question -- do you ship 458566-2528309-type items internationally?,1000308,
+1000185,cust_24346,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I was charged twice for order 751903-3168032, please fix this.",1000186,
+1000001,cust_19494,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp my order 439563-3530829 still says 'preparing for shipment' after a week.,1000002,
+1000153,cust_94339,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I can't log into my account, keeps saying 'incorrect password' even after reset.",1000154,
+1000142,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry for the trouble! Please check your spam folder for the reset email, and make sure you're using the email tied to the account. DM us if it still fails and we'll escalate to account security.",,1000141
+1000163,cust_54299,True,Mon Jan 01 00:00:00 +0000 2024,Why does my card show a charge for 433998-2546759 that's way more than what I was quoted at checkout?,1000164,
+1000135,cust_99434,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I can't log into my account, keeps saying 'incorrect password' even after reset.",1000136,
+1000023,cust_42561,True,Mon Jan 01 00:00:00 +0000 2024,Can someone tell me the status of 714006-8603172? Nothing on the tracking page.,1000024,
+1000172,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Thanks for the heads up, that shouldn't happen. I've flagged 385129-1664179 to billing and a corrected charge/refund is being processed now.",,1000171
+1000140,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,That sounds frustrating. Can you DM us the email on file (no passwords please) so we can look into the reset delivery issue?,,1000139
+1000186,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry about that! I can see the duplicate charge on 751903-3168032 -- I've submitted a refund for the extra charge, it'll drop off in 3-5 business days.",,1000185
+1000174,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Thanks for the heads up, that shouldn't happen. I've flagged 959598-8084249 to billing and a corrected charge/refund is being processed now.",,1000173
+1000311,cust_45420,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp does the warranty on 533988-9794082 cover water damage?,1000312,
+1000347,cust_74611,True,Mon Jan 01 00:00:00 +0000 2024,"Shoutout to @AmazonHelp support for sorting out 799772-8118948 in like 10 minutes, appreciate it!",1000348,
+1000132,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,That sounds frustrating. Can you DM us the email on file (no passwords please) so we can look into the reset delivery issue?,,1000131
+1000032,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Thanks for flagging this. Order 893919-6738744 is currently with the carrier -- tracking updates can lag up to 24h. We'll monitor it for you.,,1000031
+1000033,cust_54580,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp courier left my 141111-2302255 package in the rain, everything inside is ruined.",1000034,
+1000238,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Cancelled! Order 657259-5103030 hadn't shipped yet so it's been stopped and you won't be charged.,,1000237
+1000018,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Hi, sorry for the wait! I can see order 709851-4151952 is out for delivery and should arrive by end of day. DM us if it doesn't show up.",,1000017
+1000193,cust_76277,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp item 362614-1619907 arrived broken, doesn't even turn on.",1000194,
+1000021,cust_71027,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp my order 813451-9920785 still says 'preparing for shipment' after a week.,1000022,
+1000208,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"So sorry to hear that! I've set up a free replacement for 188588-7390135, no need to wait for the return -- it ships today.",,1000207
+1000127,cust_56371,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp how do I return item 670795-8029864, wrong size arrived.",1000128,
+1000211,cust_53113,True,Mon Jan 01 00:00:00 +0000 2024,"Received 567480-1060779 today and it's clearly defective, won't power on at all.",1000212,
+1000016,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Hi, sorry for the wait! I can see order 666950-2976225 is out for delivery and should arrive by end of day. DM us if it doesn't show up.",,1000015
+1000286,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 256148-5182974. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000285
+1000187,cust_36446,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I was charged twice for order 269291-5393873, please fix this.",1000188,
+1000166,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry about that! I can see the duplicate charge on 680963-8695218 -- I've submitted a refund for the extra charge, it'll drop off in 3-5 business days.",,1000165
+1000099,cust_35381,True,Mon Jan 01 00:00:00 +0000 2024,"Need to send back 129294-5687865, it's not what I ordered. What's the process?",1000100,
+1000229,cust_76262,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp need to cancel order 397980-3428539 ASAP, hasn't shipped yet right?",1000230,
+1000278,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 847659-1196656. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000277
+1000191,cust_12380,True,Mon Jan 01 00:00:00 +0000 2024,Why does my card show a charge for 624380-3984664 that's way more than what I was quoted at checkout?,1000192,
+1000101,cust_57793,True,Mon Jan 01 00:00:00 +0000 2024,"Need to send back 826161-6776075, it's not what I ordered. What's the process?",1000102,
+1000243,cust_20058,True,Mon Jan 01 00:00:00 +0000 2024,"Please cancel 341944-8723224, ordered by mistake.",1000244,
+1000026,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Hi, sorry for the wait! I can see order 932967-4015985 is out for delivery and should arrive by end of day. DM us if it doesn't show up.",,1000025
+1000045,cust_38600,True,Mon Jan 01 00:00:00 +0000 2024,Order 740595-2964541 says delivered but there's nothing on my porch. Ring camera shows no one came.,1000046,
+1000222,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's disappointing, apologies. I've issued a replacement for 377000-2505812 and a prepaid label to send the defective one back whenever convenient.",,1000221
+1000159,cust_77581,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I can't log into my account, keeps saying 'incorrect password' even after reset.",1000160,
+1000183,cust_45108,True,Mon Jan 01 00:00:00 +0000 2024,Why does my card show a charge for 575816-1193715 that's way more than what I was quoted at checkout?,1000184,
+1000195,cust_68596,True,Mon Jan 01 00:00:00 +0000 2024,"Received 677816-4178552 today and it's clearly defective, won't power on at all.",1000196,
+1000107,cust_94296,True,Mon Jan 01 00:00:00 +0000 2024,"Need to send back 739906-1032016, it's not what I ordered. What's the process?",1000108,
+1000288,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,I completely understand your frustration and I'm sorry we've let you down on 430932-4185138. I'm escalating this to a senior specialist right now who will DM you directly within the hour.,,1000287
+1000064,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I'm so sorry about that! I've started a replacement for order 824035-9648511 at no cost, it'll ship today. Please send a photo via DM so we can also file it with the carrier.",,1000063
+1000216,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"So sorry to hear that! I've set up a free replacement for 328448-6982485, no need to wait for the return -- it ships today.",,1000215
+1000180,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Thanks for the heads up, that shouldn't happen. I've flagged 381986-1282389 to billing and a corrected charge/refund is being processed now.",,1000179
+1000042,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's not okay, thank you for letting us know. I've opened an investigation for 706020-8476611 with the carrier and issued a reshipment.",,1000041
+1000144,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,That sounds frustrating. Can you DM us the email on file (no passwords please) so we can look into the reset delivery issue?,,1000143
+1000316,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Great question! Standard warranty on 477639-3111811 covers manufacturing defects, not water damage, but check if you added Extended Protection at checkout.",,1000315
+1000002,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Hi, sorry for the wait! I can see order 439563-3530829 is out for delivery and should arrive by end of day. DM us if it doesn't show up.",,1000001
+1000341,cust_95150,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp just wanted to say your team fixed my 346172-5144951 issue super fast, thank you!",1000342,
+1000087,cust_29215,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp requesting a refund for 124217-4442936, item never arrived and it's been 3 weeks.",1000088,
+1000227,cust_29590,True,Mon Jan 01 00:00:00 +0000 2024,"Please cancel 850773-7535001, ordered by mistake.",1000228,
+1000170,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry about that! I can see the duplicate charge on 926658-4834497 -- I've submitted a refund for the extra charge, it'll drop off in 3-5 business days.",,1000169
+1000192,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Thanks for the heads up, that shouldn't happen. I've flagged 624380-3984664 to billing and a corrected charge/refund is being processed now.",,1000191
+1000194,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"So sorry to hear that! I've set up a free replacement for 362614-1619907, no need to wait for the return -- it ships today.",,1000193
+1000348,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That means a lot, thank you for the kind words! Glad we could sort out 799772-8118948 quickly.",,1000347
+1000017,cust_81793,True,Mon Jan 01 00:00:00 +0000 2024,Can someone tell me the status of 709851-4151952? Nothing on the tracking page.,1000018,
+1000240,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Got it! I've submitted a cancellation for 579145-2176276 -- if it hasn't entered the shipping process it'll be stopped automatically and refunded in full.,,1000239
+1000269,cust_63139,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp worst customer service ever, nobody has responded about 266792-1060238 in 5 days. Lawyer is next.",1000270,
+1000321,cust_19586,True,Mon Jan 01 00:00:00 +0000 2024,"Shoutout to @AmazonHelp support for sorting out 843977-8940124 in like 10 minutes, appreciate it!",1000322,
+1000098,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Sorry about that mix-up. You can start a free return for 309629-9684536 from Your Orders -- happy to send you the direct link if it's not showing.,,1000097
+1000169,cust_44808,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp I was charged twice for order 926658-4834497, please fix this.",1000170,
+1000085,cust_77676,True,Mon Jan 01 00:00:00 +0000 2024,Where's my refund for order 876314-5441883? Your app says 'processed' but nothing in my bank account.,1000086,
+1000041,cust_97641,True,Mon Jan 01 00:00:00 +0000 2024,Order 706020-8476611 says delivered but there's nothing on my porch. Ring camera shows no one came.,1000042,
+1000058,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's not okay, thank you for letting us know. I've opened an investigation for 790504-4914729 with the carrier and issued a reshipment.",,1000057
+1000161,cust_56742,True,Mon Jan 01 00:00:00 +0000 2024,Why does my card show a charge for 523425-6689424 that's way more than what I was quoted at checkout?,1000162,
+1000231,cust_21153,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp need to cancel order 246074-9787189 ASAP, hasn't shipped yet right?",1000232,
+1000330,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That means a lot, thank you for the kind words! Glad we could sort out 914598-1663476 quickly.",,1000329
+1000095,cust_39719,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp I returned item 333876-4274007 two weeks ago and still no refund. This is ridiculous.,1000096,
+1000031,cust_65272,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp any update on order 893919-6738744? Tracking hasn't moved in 3 days.,1000032,
+1000027,cust_68829,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp my order 414834-9811335 still says 'preparing for shipment' after a week.,1000028,
+1000213,cust_50573,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp item 673648-6427998 arrived broken, doesn't even turn on.",1000214,
+1000073,cust_57659,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp requesting a refund for 100244-3537804, item never arrived and it's been 3 weeks.",1000074,
+1000306,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Great question! Standard warranty on 246377-4228055 covers manufacturing defects, not water damage, but check if you added Extended Protection at checkout.",,1000305
+1000013,cust_28907,True,Mon Jan 01 00:00:00 +0000 2024,Can someone tell me the status of 148845-3234302? Nothing on the tracking page.,1000014,
+1000110,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"No problem! Go to Your Orders > 188896-3011649 > Return or Replace Items, pick 'Wrong item' and you'll get a free prepaid label.",,1000109
+1000028,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Thanks for flagging this. Order 414834-9811335 is currently with the carrier -- tracking updates can lag up to 24h. We'll monitor it for you.,,1000027
+1000202,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"That's disappointing, apologies. I've issued a replacement for 972715-3344092 and a prepaid label to send the defective one back whenever convenient.",,1000201
+1000075,cust_90487,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp I returned item 743550-1427833 two weeks ago and still no refund. This is ridiculous.,1000076,
+1000305,cust_32897,True,Mon Jan 01 00:00:00 +0000 2024,@AmazonHelp does the warranty on 246377-4228055 cover water damage?,1000306,
+1000029,cust_31621,True,Mon Jan 01 00:00:00 +0000 2024,"Hi AmazonHelp, where is my order #401924-2228106? It was supposed to arrive yesterday.",1000030,
+1000214,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"So sorry to hear that! I've set up a free replacement for 673648-6427998, no need to wait for the return -- it ships today.",,1000213
+1000249,cust_73231,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp need to cancel order 879319-6107272 ASAP, hasn't shipped yet right?",1000250,
+1000115,cust_95964,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp how do I return item 233209-1462193, wrong size arrived.",1000116,
+1000096,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I've checked and your refund for 333876-4274007 was issued but may be sitting with your bank. If it's not there in 5 business days, DM us your order details and we'll escalate.",,1000095
+1000313,cust_85272,True,Mon Jan 01 00:00:00 +0000 2024,Quick question -- do you ship 454631-2041185-type items internationally?,1000314,
+1000350,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,So happy to hear that about 135753-6671564! We'll pass this along to the team.,,1000349
+1000320,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Great question! Standard warranty on 427172-1365919 covers manufacturing defects, not water damage, but check if you added Extended Protection at checkout.",,1000319
+1000056,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"I'm so sorry about that! I've started a replacement for order 258252-2392252 at no cost, it'll ship today. Please send a photo via DM so we can also file it with the carrier.",,1000055
+1000152,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"Sorry for the trouble! Please check your spam folder for the reset email, and make sure you're using the email tied to the account. DM us if it still fails and we'll escalate to account security.",,1000151
+1000136,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,That sounds frustrating. Can you DM us the email on file (no passwords please) so we can look into the reset delivery issue?,,1000135
+1000114,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,"No problem! Go to Your Orders > 585659-7734153 > Return or Replace Items, pick 'Wrong item' and you'll get a free prepaid label.",,1000113
+1000239,cust_72109,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp need to cancel order 579145-2176276 ASAP, hasn't shipped yet right?",1000240,
+1000119,cust_95154,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp how do I return item 674919-3197544, wrong size arrived.",1000120,
+1000100,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Sorry about that mix-up. You can start a free return for 129294-5687865 from Your Orders -- happy to send you the direct link if it's not showing.,,1000099
+1000160,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,That sounds frustrating. Can you DM us the email on file (no passwords please) so we can look into the reset delivery issue?,,1000159
+1000103,cust_71614,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp how do I return item 184450-4698744, wrong size arrived.",1000104,
+1000254,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Cancelled! Order 808530-9214365 hadn't shipped yet so it's been stopped and you won't be charged.,,1000253
+1000106,AmazonHelp,False,Mon Jan 01 00:05:00 +0000 2024,Sorry about that mix-up. You can start a free return for 306261-6666294 from Your Orders -- happy to send you the direct link if it's not showing.,,1000105
+1000035,cust_86008,True,Mon Jan 01 00:00:00 +0000 2024,"@AmazonHelp courier left my 829070-6875018 package in the rain, everything inside is ruined.",1000036,
